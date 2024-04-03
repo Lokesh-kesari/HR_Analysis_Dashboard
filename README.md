@@ -2,6 +2,8 @@
 
 Welcome to the HR Dashboard! This dashboard provides a comprehensive overview of various HR metrics within our organization. Below are the key features and insights available:
 
+## HR Dashboard Preview:
+
 ![HR Dashboard Preview](dashboard_preview.jpg)
 
 ## Features
@@ -20,8 +22,6 @@ Welcome to the HR Dashboard! This dashboard provides a comprehensive overview of
 
 7. **Staff Growth Trend**: Track the growth of our workforce over time to understand our organization's expansion or contraction trends.
 
-8. **Employee Filter**: Easily filter employees by the starting letter of their names for quick access.
-
 9. **Leave Balance Analysis**: Monitor employees' leave balances and trends to ensure effective leave management.
 
 10. **Quick HR Dashboard**: Access a concise overview of key HR metrics for quick reference.
@@ -35,4 +35,4 @@ Welcome to the HR Dashboard! This dashboard provides a comprehensive overview of
 
 Thank you for using our HR Dashboard to gain valuable insights into our workforce!
 
-*For further assistance, please refer to the documentation or contact [HR Dashboard Administrator](mailto:admin@example.com).*
+*For further assistance, please refer to the documentation or contact [HR Dashboard Administrator](mailto:lkreddykesari@gmail.com).*
